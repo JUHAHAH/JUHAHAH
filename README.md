@@ -1,10 +1,12 @@
-`
-Hello World!
-`
-
 ### Check out my website to know more [about ME]
 
 [About ME]: https://im-jk.vercel.app/
+
+`
+HELLO! I am Full-Stack Developer! 
+`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUHAHAH&layout=donut&theme=transparent" height="180">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JUHAHAH&show_icons=true&theme=transparent" height="180">
 
 ---
 
