@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=47920B&random=false&width=435&lines=Hello!+I'm+Juha%2C+Full-Stack+Developer!)](https://git.io/typing-svg)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUHAHAH&layout=donut&theme=transparent" height="150">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JUHAHAH&show_icons=true&theme=transparent" height="150">&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=JUHAHAH" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUHAHAH&layout=donut&theme=transparent" height="190">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JUHAHAH&show_icons=true&theme=transparent" height="190">&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=JUHAHAH" height="190">
 
 ---
 
